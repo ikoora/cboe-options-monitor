@@ -26,15 +26,17 @@ response.raise_for_status()
 
 raw = response.content
 
-# Cboe may serve the file as CSV bytes or Excel bytes
+# Try CSV first, otherwise Excel
 try:
     text = raw.decode("utf-8-sig")
     df = pd.read_csv(StringIO(text))
 except Exception:
     df = pd.read_excel(BytesIO(raw))
 
-# Remove leading/trailing spaces from Cboe column names
-df.columns = df.columns.str.strip()
+# IMPORTANT: remove spaces around Cboe column names
+df.columns = df.columns.astype(str).str.strip()
+
+print("Detected columns:", list(df.columns))
 
 if "Stock Symbol" not in df.columns:
     raise RuntimeError(
