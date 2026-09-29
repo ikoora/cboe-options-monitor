@@ -33,6 +33,9 @@ try:
 except Exception:
     df = pd.read_excel(BytesIO(raw))
 
+# Remove leading/trailing spaces from Cboe column names
+df.columns = df.columns.str.strip()
+
 if "Stock Symbol" not in df.columns:
     raise RuntimeError(
         f"'Stock Symbol' column not found. Columns: {list(df.columns)}"
