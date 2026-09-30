@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-09-28",
-  "count": 5335,
+  "date": "2026-09-29",
+  "count": 5333,
   "symbols": [
     "A",
     "AA",
@@ -1218,7 +1218,6 @@
     "DBMF",
     "DBO",
     "DBP",
-    "DBRG",
     "DBVT",
     "DBX",
     "DC",
@@ -1957,7 +1956,6 @@
     "GEO",
     "GEOS",
     "GERN",
-    "GETY",
     "GEV",
     "GEVO",
     "GEVX",
