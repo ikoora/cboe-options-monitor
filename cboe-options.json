@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-09-29",
-  "count": 5333,
+  "date": "2026-09-30",
+  "count": 5332,
   "symbols": [
     "A",
     "AA",
@@ -1140,7 +1140,6 @@
     "CTS",
     "CTSH",
     "CTSO",
-    "CTVA",
     "CTXR",
     "CUBE",
     "CUBI",
@@ -1956,6 +1955,7 @@
     "GEO",
     "GEOS",
     "GERN",
+    "GETY",
     "GEV",
     "GEVO",
     "GEVX",
@@ -3146,7 +3146,6 @@
     "MYE",
     "MYFW",
     "MYGN",
-    "MYPS",
     "MYRG",
     "MYY",
     "MZZ",
