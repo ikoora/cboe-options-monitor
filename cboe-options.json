@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-10-03",
-  "count": 5339,
+  "date": "2026-10-04",
+  "count": 5342,
   "symbols": [
     "A",
     "AA",
@@ -1243,7 +1243,10 @@
     "DEM",
     "DEO",
     "DESK",
+    "DFAC",
     "DFAR",
+    "DFAS",
+    "DFAT",
     "DFAU",
     "DFAX",
     "DFDV",
