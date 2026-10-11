@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-10-09",
-  "count": 5346,
+  "date": "2026-10-10",
+  "count": 5347,
   "symbols": [
     "A",
     "AA",
@@ -2474,6 +2474,7 @@
     "IREN",
     "IREX",
     "IREZ",
+    "IRLA",
     "IRM",
     "IRMD",
     "IRON",
