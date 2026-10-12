@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-10-10",
-  "count": 5347,
+  "date": "2026-10-11",
+  "count": 5348,
   "symbols": [
     "A",
     "AA",
@@ -5273,6 +5273,7 @@
     "XRP",
     "XRPC",
     "XRPI",
+    "XRPN",
     "XRPR",
     "XRPT",
     "XRPZ",
