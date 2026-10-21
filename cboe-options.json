@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-10-19",
-  "count": 5322,
+  "date": "2026-10-20",
+  "count": 5321,
   "symbols": [
     "A",
     "AA",
@@ -705,7 +705,6 @@
     "BTCZ",
     "BTDR",
     "BTE",
-    "BTF",
     "BTG",
     "BTGO",
     "BTI",
