@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-10-20",
-  "count": 5321,
+  "date": "2026-10-21",
+  "count": 5320,
   "symbols": [
     "A",
     "AA",
@@ -1944,7 +1944,6 @@
     "GEO",
     "GEOS",
     "GERN",
-    "GETY",
     "GEV",
     "GEVO",
     "GEVX",
