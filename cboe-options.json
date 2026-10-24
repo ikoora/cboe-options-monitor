@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-10-22",
-  "count": 5324,
+  "date": "2026-10-23",
+  "count": 5323,
   "symbols": [
     "A",
     "AA",
@@ -2841,6 +2841,7 @@
     "LTPZ",
     "LTRN",
     "LTRX",
+    "LU",
     "LUCK",
     "LULG",
     "LULU",
@@ -5097,7 +5098,6 @@
     "WDS",
     "WDTE",
     "WEAT",
-    "WEAV",
     "WEBL",
     "WEC",
     "WEED",
@@ -5146,7 +5146,6 @@
     "WPC",
     "WPM",
     "WPP",
-    "WPRT",
     "WQTM",
     "WR",
     "WRAP",
