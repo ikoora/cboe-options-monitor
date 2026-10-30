@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-10-28",
-  "count": 5320,
+  "date": "2026-10-29",
+  "count": 5321,
   "symbols": [
     "A",
     "AA",
@@ -401,6 +401,7 @@
     "ATRC",
     "ATRO",
     "ATS",
+    "ATYR",
     "AU",
     "AUB",
     "AUDC",
@@ -1390,7 +1391,6 @@
     "DYAI",
     "DYLG",
     "DYN",
-    "DYNC",
     "DYNF",
     "E",
     "EAF",
@@ -3403,6 +3403,7 @@
     "OMCL",
     "OMDA",
     "OMER",
+    "OMEX",
     "OMF",
     "ON",
     "ONB",
