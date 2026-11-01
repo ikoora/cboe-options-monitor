@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-10-30",
-  "count": 5313,
+  "date": "2026-10-31",
+  "count": 5315,
   "symbols": [
     "A",
     "AA",
@@ -783,6 +783,7 @@
     "CARS",
     "CART",
     "CASH",
+    "CASK",
     "CASY",
     "CAT",
     "CATG",
@@ -1067,6 +1068,7 @@
     "CRDL",
     "CRDO",
     "CRDU",
+    "CRESY",
     "CRGY",
     "CRH",
     "CRI",
