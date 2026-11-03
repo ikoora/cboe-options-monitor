@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-11-01",
-  "count": 5315,
+  "date": "2026-11-02",
+  "count": 5313,
   "symbols": [
     "A",
     "AA",
@@ -2390,7 +2390,6 @@
     "INDI",
     "INDL",
     "INDS",
-    "INDV",
     "INFL",
     "INFQ",
     "INFU",
@@ -4475,7 +4474,6 @@
     "SUNB",
     "SUNC",
     "SUNS",
-    "SUPN",
     "SUPV",
     "SURG",
     "SUSA",
