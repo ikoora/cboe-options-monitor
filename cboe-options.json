@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-11-06",
-  "count": 5412,
+  "date": "2026-11-07",
+  "count": 5413,
   "symbols": [
     "A",
     "AA",
@@ -306,6 +306,7 @@
     "AQST",
     "AQWA",
     "AR",
+    "ARAY",
     "ARBE",
     "ARCB",
     "ARCC",
