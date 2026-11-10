@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-11-08",
-  "count": 5413,
+  "date": "2026-11-09",
+  "count": 5412,
   "symbols": [
     "A",
     "AA",
@@ -56,7 +56,6 @@
     "ACH",
     "ACHC",
     "ACHR",
-    "ACHV",
     "ACI",
     "ACIC",
     "ACIO",
@@ -2116,7 +2115,6 @@
     "HARD",
     "HAS",
     "HASI",
-    "HAUS",
     "HAWK",
     "HAYW",
     "HBAN",
@@ -2645,6 +2643,7 @@
     "KC",
     "KCAMD",
     "KCAMZ",
+    "KCAPL",
     "KCBAC",
     "KCCA",
     "KCCIT",
