@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-11-09",
-  "count": 5412,
+  "date": "2026-11-10",
+  "count": 5413,
   "symbols": [
     "A",
     "AA",
@@ -2761,7 +2761,6 @@
     "KOPN",
     "KORU",
     "KOS",
-    "KPTI",
     "KR",
     "KRBN",
     "KRC",
@@ -3910,6 +3909,7 @@
     "QUBT",
     "QUBX",
     "QUIK",
+    "QUIT",
     "QURE",
     "QUS",
     "QVMT",
@@ -4851,6 +4851,7 @@
     "TWM",
     "TWST",
     "TX",
+    "TXCP",
     "TXG",
     "TXMD",
     "TXN",
