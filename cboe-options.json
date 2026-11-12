@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-11-10",
-  "count": 5413,
+  "date": "2026-11-11",
+  "count": 5415,
   "symbols": [
     "A",
     "AA",
@@ -3692,6 +3692,7 @@
     "PHVS",
     "PI",
     "PICK",
+    "PICS",
     "PID",
     "PIE",
     "PII",
@@ -5179,6 +5180,7 @@
     "WBX",
     "WCC",
     "WCLD",
+    "WCMI",
     "WCN",
     "WD",
     "WDAY",
