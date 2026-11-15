@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-11-13",
-  "count": 5408,
+  "date": "2026-11-14",
+  "count": 5409,
   "symbols": [
     "A",
     "AA",
@@ -3709,6 +3709,7 @@
     "PLAB",
     "PLAY",
     "PLBY",
+    "PLCEQ",
     "PLD",
     "PLG",
     "PLMR",
