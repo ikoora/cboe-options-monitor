@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-11-14",
-  "count": 5409,
+  "date": "2026-11-15",
+  "count": 5410,
   "symbols": [
     "A",
     "AA",
@@ -2259,6 +2259,7 @@
     "HYPR",
     "HYS",
     "HYSA",
+    "HZN",
     "HZO",
     "IA",
     "IAG",
