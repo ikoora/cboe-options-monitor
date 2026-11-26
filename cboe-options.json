@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-11-24",
-  "count": 5421,
+  "date": "2026-11-25",
+  "count": 5422,
   "symbols": [
     "A",
     "AA",
@@ -558,6 +558,7 @@
     "BF.B",
     "BFAM",
     "BFH",
+    "BFLR",
     "BFLY",
     "BFOR",
     "BFS",
