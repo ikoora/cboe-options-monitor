@@ -1,7 +1,7 @@
 {
   "source": "Cboe Equity & Index Options Symbol Directory",
-  "date": "2026-11-26",
-  "count": 5422,
+  "date": "2026-11-27",
+  "count": 5421,
   "symbols": [
     "A",
     "AA",
@@ -2811,7 +2811,6 @@
     "KZMAR",
     "KZSPC",
     "L",
-    "LAB",
     "LABD",
     "LABU",
     "LABX",
